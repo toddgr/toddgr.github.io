@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Graphic Designer On The Road"
-description: "A graphic designer is a professional within the graphic design and graphic arts industry."
+title: "Testing out embedding videos in posts"
+description: "I think that blog posts would likely be the easiest method of showng my projects"
 date: 2022-01-05
 feature_image: images/road.jpg
 tags: [tips, work]
@@ -15,7 +15,10 @@ A degree or certificate from an accredited trade school is usually considered es
 
 Ice molecules can exhibit up to sixteen different phases _(packing geometries)_ that depend on temperature and pressure. When water is cooled rapidly (quenching), up to three different types of amorphous ice can form depending on the history of its pressure and temperature. When cooled slowly correlated proton tunneling occurs below 20 K giving rise to macroscopic quantum phenomena. Virtually all the ice on Earth's surface and in its atmosphere is of a hexagonal crystalline structure denoted as ice Ih (spoken as "ice one h") with minute traces of cubic ice denoted as ice Ic. The most common phase transition to ice Ih occurs when liquid water is cooled below 0°C (273.15K, 32°F) at standard atmospheric pressure. It may also be deposited directly by water vapor, as happens in the formation of frost. The transition from ice to water is melting and from ice directly to water vapor is sublimation.
 
-## Characteristics
+## Characteristics (there should be a video here)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aGYWe3iqTEM?si=vNAJCE0vgvX4xal3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 As a naturally-occurring crystalline inorganic solid with an ordered structure, ice is considered a mineral.[citation needed] It possesses a regular crystalline structure based on the molecule of water, which consists of a single oxygen atom covalently bonded to two hydrogen atoms, or H-O-H. However, many of the physical properties of water and ice are controlled by the formation of hydrogen bonds between adjacent oxygen and hydrogen atoms; while it is a weak bond, it is nonetheless critical in controlling the structure of both water and ice.
 
