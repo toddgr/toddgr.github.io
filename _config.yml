@@ -9,18 +9,18 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Grace Todd"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Welcome to my portfolio! Stay a while :)"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://toddgr.github.io/"
 
-# Favicon
+# Favicon --> change to the ghost boy
 favicon: images/favicon.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
@@ -47,7 +47,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; Grace Todd all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 
 # Plugins
