@@ -23,31 +23,16 @@
  10. Prism
 */
 
-// // Font.
-// $font: (
-//   primary: ("Lato","Helvetica Neue",Helvetica,sans-serif),
-//   secondary: ("Noto Serif",Georgia,serif)
-// );
-
-// // Palette.
-// {% assign accent = site.accent_color | default: '#22223B' %}
-// $palette: (
-//   accent:    {{ accent }},
-//   primary:   #22223B,
-//   secondary: #22223B,
-//   meta:      #22223B,
-//   border:    #22223B,
-//   bg:        #22223B
-// );
-
-//Font.
-$font-primary: ("Lato","Helvetica Neue",Helvetica,sans-serif);
-$font-secondary: ("Noto Serif",Georgia,serif);
+// Font.
+$font: (
+  primary: ("Lato","Helvetica Neue",Helvetica,sans-serif),
+  secondary: ("Noto Serif",Georgia,serif)
+);
 
 // Palette.
-$accent: #22223B; // Assuming a default value if `site.accent_color` is not available.
+{% assign accent = site.accent_color | default: '#22223B' %}
 $palette: (
-  accent:    $accent,
+  accent:    {{ accent }},
   primary:   #22223B,
   secondary: #22223B,
   meta:      #22223B,
