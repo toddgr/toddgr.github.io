@@ -17,7 +17,7 @@
 .site-title {
   color: _palette(secondary);
   font-family: _font(secondary);
-  font-size: 2.0rem;
+  font-size: 1.66667rem;
   font-weight: bold;
   letter-spacing: -1px;
   line-height: 1.2;
@@ -72,10 +72,10 @@
 .site-description {
   border-bottom: 1px solid _palette(border);
   font-family: _font(secondary);
-  font-size:  0.88889rem;
-  font-style: normal;
-  padding-bottom: 1.33333rem;
-  padding-top: 1.22222rem;
+  font-size: 1.33333em;
+  font-style: italic;
+  padding-bottom: 3.33333rem;
+  padding-top: 2.22222rem;
 
   @media only screen and (max-width: 600px) {
     font-size: 1.25em;
