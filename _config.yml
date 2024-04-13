@@ -12,7 +12,7 @@ lang: en-US
 title: "Grace Todd"
 
 # A description of your site for meta tag, search engine results.
-description: "Welcome to my portfolio! Stay a while :)"
+description: "Hello and welcome to my portfolio!\n This site is still a work in progress, so come back later to see what I'm working on!"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
