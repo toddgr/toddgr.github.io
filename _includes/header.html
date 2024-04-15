@@ -27,6 +27,18 @@
   <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Open Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
 </header>
 
+<div class="offsite-links">
+  {% if site.footer.has_social %}
+    {% include social.html %}
+  {% endif %}
+</div><!-- .offsite-links -->
+<div class="footer-bottom">
+  <div class="site-info">
+    {{ site.footer.content | markdownify }}
+  </div><!-- .site-info -->
+  <a href="#page" id="back-to-top" class="back-to-top"><span class="screen-reader-text">Back to the top </span>&#8593;</a>
+</div>
+
 {% if site.description and site.description != "" and page.url == "/" %}
 <!-- <div class="site-description fadeInDown delay_05s">
   <img src="images/author.png" alt="Grace Todd's picture" width="300px">
