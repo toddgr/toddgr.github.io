@@ -26,8 +26,14 @@
 </header>
 
 {% if site.description and site.description != "" and page.url == "/" %}
-<div class="site-description fadeInDown delay_05s">
+<!-- <div class="site-description fadeInDown delay_05s">
   <img src="images/author.png" alt="Grace Todd's picture" width="300px">
   <p>{{ site.description }}</p>
-</div><!-- .site-description -->
+</div>.site-description -->
+<div class="site-description-wrapper fadeInDown delay_05s">
+  <img src="images/author.png" alt="Grace Todd's picture" width="200px">
+  <div class="description-text">
+    <p>{{ site.description }}</p>
+  </div>
+</div><!-- .site-description-wrapper -->
 {% endif %}
