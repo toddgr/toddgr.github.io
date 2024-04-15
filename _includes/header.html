@@ -25,11 +25,7 @@
   <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Open Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
 </header>
 
-<div class="offsite-links">
-  {% if site.footer.has_social %}
-    {% include social.html %}
-  {% endif %}
-</div>
+
 
 {% if site.description and site.description != "" and page.url == "/" %}
 <!-- <div class="site-description fadeInDown delay_05s">
@@ -41,6 +37,11 @@
   <div class="description-text">
     <p><b>Technical Artist | Computer Graphics Student</b></p>
     <p>{{ site.description }}</p>
+    <div class="offsite-links">
+      {% if site.footer.has_social %}
+        {% include social.html %}
+      {% endif %}
+    </div>
   </div>
 </div><!-- .site-description-wrapper -->
 {% endif %}
