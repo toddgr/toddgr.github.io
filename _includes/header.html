@@ -1,11 +1,8 @@
 <header class="site-header">
   {% if page.url == "/" %}
   <h1 class="site-title"><a class="logo-text" href="{{ site.baseurl }}/">{{site.title}}</a></h1>
-  
-  <h4>Technical Artist | Computer Graphics Student</h4>
   {% else %}
   <p class="site-title"><a class="logo-text" href="{{ site.baseurl }}/">{{site.title}}</a></p>
-  <p>Technical Artist | Computer Graphics Student</p>
   {% endif %}
   <nav class="site-navigation">
     <div class="site-navigation-wrap">
@@ -42,6 +39,7 @@
 <div class="site-description-wrapper fadeInDown delay_05s">
   <img src="images/author.png" alt="Grace Todd's picture" width="175px">
   <div class="description-text">
+    <p><b>Technical Artist | Computer Graphics Student</b></p>
     <p>{{ site.description }}</p>
   </div>
 </div><!-- .site-description-wrapper -->
