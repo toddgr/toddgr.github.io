@@ -5,5 +5,10 @@ To keep the posts that I put here in order (And to make sure that my broader arr
 * `#unreal`
 * `#blender`
 * `#shader`
-* `animation`
-* `art`
+* `#animation`
+* `#art`
+
+* `#job`
+* `#internship`
+* `#publication`
+
