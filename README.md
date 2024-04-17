@@ -7,6 +7,7 @@ To keep the posts that I put here in order (And to make sure that my broader arr
 * `#shader`
 * `#animation`
 * `#art`
+* `#modelling`
 
 * `#job`
 * `#internship`
