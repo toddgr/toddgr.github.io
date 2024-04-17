@@ -1,14 +1,9 @@
 ---
 layout: post
-title: ""
-description: ""
-date: 
-feature_image: 
-tags: []
+title: "Diamonds"
+description: "A diamond shader created in blender."
+date: 2024-04-10
+feature_image: images/teapot.jpg
+tags: [blender, shader]
 ---
 
-The maximum word count for an article before continue reading is 100 words.
-
-Add newline to activate continue reading.
-
-the title of the file should be yyyy-mm-dd-url-name.md

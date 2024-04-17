@@ -8,6 +8,7 @@ tags: []
 ---
 
 The maximum word count for an article before continue reading is 100 words.
+<!--more-->
 
 Add newline to activate continue reading.
 
