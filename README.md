@@ -8,6 +8,7 @@ To keep the posts that I put here in order (And to make sure that my broader arr
 * `#animation`
 * `#art`
 * `#modelling`
+* `#software`
 
 * `#job`
 * `#internship`
