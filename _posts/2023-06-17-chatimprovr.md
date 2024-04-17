@@ -8,7 +8,7 @@ tags: [software, vr]
 ---
 I had the amazing opportunity to be part of a group that created a game engine in Rust– from scratch! We called it ChatImproVR, a VR-focused game engine with the goal of creating the ultimate chat and social platform for players to enjoy, with a modular design that would allow any number of games to be integrated within each other. 
 
-<!-- more -->
+<!--more-->
 
 [Visit our GitHub here!](https://chatimprovr.github.io/)
 
