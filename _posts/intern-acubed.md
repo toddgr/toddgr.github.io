@@ -1,14 +1,10 @@
 ---
 layout: post
-title: ""
+title: "Procedural Tree Generation in Flight Simulators"
 description: ""
-date: 
-feature_image: 
-tags: []
+date: 2023-08-31
+feature_image: images/pcg-foliage.png
+tags: [internship, unreal]
 ---
+Photo from [Acubed](https://acubed.airbus.com/)
 
-The maximum word count for an article before continue reading is 100 words.
-
-Add newline to activate continue reading.
-
-the title of the file should be yyyy-mm-dd-url-name.md

@@ -21,7 +21,7 @@ baseurl: ""
 url: "https://toddgr.github.io/"
 
 # Favicon --> change to the ghost boy
-favicon: images/favicon.png
+favicon: images/ghostie.png
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
