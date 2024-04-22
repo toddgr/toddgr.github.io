@@ -3,7 +3,7 @@ layout: post
 title: "Painterly Rendering: an image manipulation program"
 description: "Honors undergraduate thesis that generates painterly renderings of an image."
 date: 2023-05-16
-feature_image: 
+feature_image: images/tulips_process.JPG
 tags: [publication, software]
 ---
 
