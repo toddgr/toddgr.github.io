@@ -7,11 +7,7 @@ feature_image: images/teapot.jpg
 tags: [blender, shader]
 ---
 
-**Skills:**
-* Blender
-* Shading
-* Animation
-* Rendering
+**Skills:** *Shading, Animation, and Rendering in Blender*
 
 <!--more-->
 
