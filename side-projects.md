@@ -9,16 +9,38 @@ I do a lot of creative stuff that doesn't really have to do with coding or compu
 
 Come back later to see what I've been up to!
 
-# Side Project 1
+# Zoom Doodles: May Update
 
-**date here**
+![May](images/zoom/May.jpg)
 
-picture
+As a TA for a hybrid class, I spend a lot of time holding office hours over Zoom. And sometimes I like to spice things up when everyone inevitably has their cameras off. My favorite part of getting to host my office hours on Zoom has been drawing a new profile picture for every month!
 
----
+## April
 
-# Side Project 2
+![April](images/zoom/April.jpg)
 
-**another date here**
+## March
 
-picture
+![March](images/zoom/March.JPG)
+
+## February
+
+![February](images/zoom/February.jpg)
+
+## January
+
+![January](images/zoom/January.JPG)
+
+## December
+
+![December](images/zoom/December.jpg)
+
+## November
+
+![November](images/zoom/November.jpg)
+
+## October
+
+![October](images/zoom/October.jpg)
+
+It's been so much fun taking a creative break from my studies as a grad student and finding new ways to engage students when I might not be able to see them face-to-face.
