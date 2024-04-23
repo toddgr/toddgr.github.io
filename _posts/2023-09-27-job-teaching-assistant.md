@@ -17,4 +17,4 @@ One of my favorite parts of being a graduate student is being able to TA for som
 
 # Shaders
 
-# Parallel Programming
+# Parallel Programmingi
