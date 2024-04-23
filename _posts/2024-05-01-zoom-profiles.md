@@ -13,30 +13,30 @@ As a TA for a hybrid class, I spend a lot of time holding office hours over Zoom
 
 ## April
 
-![April](/images/zoom/April.jpg)
+![April](images/zoom/April.jpg)
 
 ## March
 
-![March](/images/zoom/March.jpg)
+![March](images/zoom/March.jpg)
 
 ## February
 
-![February](/images/zoom/February.jpg)
+![February](images/zoom/February.jpg)
 
 ## January
 
-![January](/images/zoom/January.jpg)
+![January](images/zoom/January.jpg)
 
 ## December
 
-![December](/images/zoom/December.jpg)
+![December](images/zoom/December.jpg)
 
 ## November
 
-![November](/images/zoom/November.jpg)
+![November](images/zoom/November.jpg)
 
 ## October
 
-![October](/images/zoom/October.jpg)
+![October](images/zoom/October.jpg)
 
 It's been so much fun taking a creative break from my studies as a grad student and finding new ways to engage students when I might not be able to see them face-to-face.
