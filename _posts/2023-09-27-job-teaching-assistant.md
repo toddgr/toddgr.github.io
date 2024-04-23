@@ -3,7 +3,7 @@ layout: post
 title: "Life as a Computer Graphics Teaching Assistant"
 description: "Being a CG TA is so cool!"
 date: 2023-09-27
-feature_image: images/icosa.gif
+feature_image: images/icosa-crop.gif
 tags: [job]
 ---
 
