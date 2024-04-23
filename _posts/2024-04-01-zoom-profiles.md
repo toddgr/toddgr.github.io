@@ -17,7 +17,7 @@ As a TA for a hybrid class, I spend a lot of time holding office hours over Zoom
 
 ## March
 
-![March](images/zoom/March.jpg)
+![March](images/zoom/March.JPG)
 
 ## February
 
@@ -25,7 +25,7 @@ As a TA for a hybrid class, I spend a lot of time holding office hours over Zoom
 
 ## January
 
-![January](images/zoom/January.jpg)
+![January](images/zoom/January.JPG)
 
 ## December
 
