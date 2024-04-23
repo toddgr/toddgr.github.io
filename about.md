@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About this blog
+title: About Grace
 description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+feature_image: 
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+<!-- quick resume part here-->
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+<!-- okay bio now -->
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+With an enthusiasm for computer graphics for as long as she could remember, she began her academic journey toward her first computer science degree at the age of 15, when she became a full-time CS student at Central Oregon Community College. There, in the midst of all of her fine art and software engineering classes, she fell in love with all the different ways that computer graphics contributes to society-- from movies and games to simulations and rendering pipelines. Here was an opportunity to combine her love of problem-solving with her insatiable need for creativity into one career path.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+In 2019 she graduated with her high school diploma and an A.S. in Computer Science in the same week, and started packing to move to Corvallis, Oregon to continue her learning at Oregon State University.
 
-*Thank You for reading!*
+By the time she graduated in 2023 with an Honors B.S. in Computer Science: Simulation & Game Programming, Grace had two publications under her belt: her honors thesis on image manipulation and painterly renderings, as well as her contributions to Oregon State's first-ever study on student interaction in virtual reality. 
+
+Grace Todd is currently a graduate student at Oregon State University studying computer graphics. In her spare time, she enjoys reading horror novels and learning new ways to create stuff... right now, she's really into decorating cakes and sewing sweaters for her dog.
