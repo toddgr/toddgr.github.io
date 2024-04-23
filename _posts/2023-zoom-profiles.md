@@ -39,4 +39,4 @@ As a TA for a hybrid class, I spend a lot of time holding office hours over Zoom
 
 ![October](/images/zoom/October.jpg)
 
-It's been so much fun taking a break from my studies as a grad student and finding new ways to engage students when I might not be able to see them face-to-face.
+It's been so much fun taking a creative break from my studies as a grad student and finding new ways to engage students when I might not be able to see them face-to-face.
