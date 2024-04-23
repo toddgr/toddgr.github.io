@@ -7,7 +7,7 @@ feature_image: images/video-editing.jpg
 tags: [job]
 ---
 
-Photo by (Alex Fu)[https://www.pexels.com/photo/computer-screen-in-close-up-photography-1767783/]
+Photo by [Alex Fu](https://www.pexels.com/photo/computer-screen-in-close-up-photography-1767783/)
 
 **Skills:** *Adobe Creative Suite, Camtasia, Captioning, Workflow management*
 
