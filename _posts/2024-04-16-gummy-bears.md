@@ -9,11 +9,7 @@ tags: [blender, shader, modelling]
 
 For this project, I practiced modelling, shading, and rendering in Blender to create a pile of gummy bears. I had a lot of fun working on this project, creating and testing different colors and textures that would look the most like a realistic gummy bear.
 
-**Skills:**
-* Blender
-* Modeling
-* Shading
-* Rendering
+**Skills:** *Modeling, Shading, and Rendering in Blender*
 
 <!--more-->
 
