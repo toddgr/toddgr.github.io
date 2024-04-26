@@ -36,6 +36,8 @@ navigation:
     url: /contact
   - text: Tags
     url: /tags
+  - text: Side Projects
+    url: /side-projects
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes

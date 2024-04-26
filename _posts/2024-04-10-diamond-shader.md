@@ -7,7 +7,7 @@ feature_image: images/teapot.jpg
 tags: [blender, shader]
 ---
 
-A diamond shader, rendered and animated in Blender.
+**Skills:** *Shading, Animation, and Rendering in Blender*
 
 <!--more-->
 
