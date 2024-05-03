@@ -3,7 +3,7 @@ layout: post
 title: "Gummy Bears in Blender!"
 description: "For this project, I practiced modelling, shading, and rendering in Blender to create a pile of gummy bears."
 date: 2024-04-16
-feature_image: images/gummy_bears.png
+feature_image: images/gummy_bear_after.png
 tags: [blender, shader, modelling]
 ---
 
