@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-testing testing hello does this thing work
