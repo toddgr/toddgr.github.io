@@ -6,15 +6,69 @@ permalink: /projects/
 
 # [Insert Projects Banner Here]
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+---
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<!-- AquaQuest -->
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+    </td>
+    <td>
+      <h3> AquaQuest </h3>
+      This is a section of text that will appear to the right of the image. You can write as much text as you need here.
+    </td>
+  </tr>
+</table>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<!-- Foliager -->
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+    </td>
+    <td>
+      <h3> Foliager </h3>
+      This is a section of text that will appear to the right of the image. You can write as much text as you need here.
+    </td>
+  </tr>
+</table>
 
+<!-- PCG for Flight Simulation -->
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+    </td>
+    <td>
+      <h3> Procedural Foliage Generation </h3>
+      This is a section of text that will appear to the right of the image. You can write as much text as you need here.
+    </td>
+  </tr>
+</table>
 
-[jekyll-organization]: https://github.com/jekyll
+<!-- ChatImproVR -->
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+    </td>
+    <td>
+      <h3> ChatImproVR </h3>
+      This is a section of text that will appear to the right of the image. You can write as much text as you need here.
+    </td>
+  </tr>
+</table>
+
+<!-- Painterly Rendering Thesis -->
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+    </td>
+    <td>
+      <h3> Painterly Rendering </h3>
+      This is a section of text that will appear to the right of the image. You can write as much text as you need here.
+    </td>
+  </tr>
+</table>
