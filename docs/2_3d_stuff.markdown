@@ -2,17 +2,21 @@
 layout: default
 title: 3D Stuff
 permalink: /3d-stuff/
+carousels:
+  - images: 
+    - image: https://via.placeholder.com/500
+    - image: https://via.placeholder.com/500
+    - image: https://via.placeholder.com/500
+    - image: https://via.placeholder.com/500
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# [Insert 3D stuff Banner Here]
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Art Gallery Carousel
+ {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+ An art gallery of my own art, created in Blender. One room for some digital pieces, the other for portraits. Please excuse the lack of emergency exits.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+ ---
 
-
-[jekyll-organization]: https://github.com/jekyll
+## Shaders
+Developed in GLSL and Blender
