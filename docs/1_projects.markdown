@@ -9,12 +9,12 @@ permalink: /projects/
 ---
 
 <!-- AquaQuest -->
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px;">
       <img src="https://via.placeholder.com/500" alt="Placeholder Image">
     </td>
-    <td>
+    <td style="border: none; padding: 0 10px;">
       <h3> AquaQuest </h3>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here.
     </td>
@@ -22,12 +22,12 @@ permalink: /projects/
 </table>
 
 <!-- Foliager -->
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px;">
       <img src="https://via.placeholder.com/500" alt="Placeholder Image">
     </td>
-    <td>
+    <td style="border: none; padding: 0 10px;">
       <h3> Foliager </h3>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here.
     </td>
@@ -35,12 +35,12 @@ permalink: /projects/
 </table>
 
 <!-- PCG for Flight Simulation -->
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px;">
       <img src="https://via.placeholder.com/500" alt="Placeholder Image">
     </td>
-    <td>
+    <td style="border: none; padding: 0 10px;">
       <h3> Procedural Foliage Generation </h3>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here.
     </td>
@@ -48,12 +48,12 @@ permalink: /projects/
 </table>
 
 <!-- ChatImproVR -->
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px;">
       <img src="https://via.placeholder.com/500" alt="Placeholder Image">
     </td>
-    <td>
+    <td style="border: none; padding: 0 10px;">
       <h3> ChatImproVR </h3>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here.
     </td>
@@ -61,12 +61,12 @@ permalink: /projects/
 </table>
 
 <!-- Painterly Rendering Thesis -->
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px;">
       <img src="https://via.placeholder.com/500" alt="Placeholder Image">
     </td>
-    <td>
+    <td style="border: none; padding: 0 10px;">
       <h3> Painterly Rendering </h3>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here.
     </td>
