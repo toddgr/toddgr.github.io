@@ -18,9 +18,6 @@ layout: home
   </tr>
 </table>
 
-
----
-
 <img src="https://via.placeholder.com/1920x1080" alt="Placeholder Image">
 # [Insert Demo Reel Here]
 
