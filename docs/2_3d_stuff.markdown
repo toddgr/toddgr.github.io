@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 3D Stuff
 permalink: /3d-stuff/
 ---
