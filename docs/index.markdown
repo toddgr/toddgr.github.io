@@ -18,8 +18,11 @@ layout: home
   </tr>
 </table>
 
+<!-- Demo Reel -->
 <img src="https://via.placeholder.com/1920x1080" alt="Placeholder Image">
-# [Insert Demo Reel Here]
+_Music by Lof Cosmos and Anastasia Kir on [Pixabay](https://pixabay.com/)_
+
+---
 
 ## Current Obsessions
 

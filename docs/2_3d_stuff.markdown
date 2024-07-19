@@ -4,7 +4,7 @@ title: 3D Stuff
 permalink: /3d-stuff/
 carousels:
   - images: 
-    - image: https://via.placeholder.com/500
+    - image: /images/aquatest.png
     - image: https://via.placeholder.com/500
     - image: https://via.placeholder.com/500
     - image: https://via.placeholder.com/500
