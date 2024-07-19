@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<img src="https://via.placeholder.com/1584x396" alt="Placeholder Image">
+<img src="/images/Page_Banners/Projects.png" alt="Projects">
 
 <!-- AquaQuest -->
 <table style="border-collapse: collapse; border: none;">

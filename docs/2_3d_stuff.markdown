@@ -10,7 +10,7 @@ carousels:
     - image: https://via.placeholder.com/500
 ---
 
-<img src="https://via.placeholder.com/1584x396" alt="Placeholder Image">
+<img src="/images/Page_Banners/3D_Stuff.png" alt="3D Stuff">
 
 ## Art Gallery Carousel
  {% include carousel.html height="50" unit="%" duration="7" number="1" %}

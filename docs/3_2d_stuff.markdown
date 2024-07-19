@@ -4,5 +4,5 @@ title: 2D Stuff
 permalink: /2d-stuff/
 ---
 
-<img src="https://via.placeholder.com/1584x396" alt="Placeholder Image">
+<img src="/images/Page_Banners/2D_Stuff_banner.gif" alt="2D Stuff">
 
