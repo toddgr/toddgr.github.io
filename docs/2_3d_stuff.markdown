@@ -45,7 +45,7 @@ Developed in GLSL and Blender
   </tr>
 </table>
 
-## 3D Models
+## Modeling
 <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
     <td style="border: none; padding: 10 10px;">
