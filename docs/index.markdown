@@ -26,9 +26,27 @@ _Music by Lof Cosmos and Anastasia Kir on [Pixabay](https://pixabay.com/)_
 
 ## Current Obsessions
 
-|      <img src="https://via.placeholder.com/500" alt="Placeholder Image">    |    <img src="https://via.placeholder.com/500" alt="Placeholder Image">      |    <img src="https://via.placeholder.com/500" alt="Placeholder Image">      |
-|----------|----------|----------|
-|   PCG, foliager, link to Projects   |   Shader dev, gummy bears, link to 3D stuff   |   3D modeling, art gallery, link to 2D Stuff   |
+
+<!-- Painterly Rendering Thesis -->
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px;">
+      <a href="/projects/" style="text-decoration: none; color: inherit;">
+      <img src="/images/Current_Obsessions/PCG.png" alt="Procedural Foliage Generation">
+      </a>
+    </td>
+    <td style="border: none; padding: 0 10px;">
+      <a href="/3d-stuff/" style="text-decoration: none; color: inherit;">
+      <img src="/images/Current_Obsessions/Shaders.png" alt="Shader Development">
+      </a>
+    </td>
+    <td style="border: none; padding: 0 10px;">
+      <a href="/3d-stuff/" style="text-decoration: none; color: inherit;">
+      <img src="/images/Current_Obsessions/3D_Modeling.png" alt="3D Modeling">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div style="background-color: #6e90a3; margin-bottom: 20px; padding: 10px;">
   <h2> Publications </h2>
