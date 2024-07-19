@@ -13,6 +13,7 @@ layout: home
     </td>
     <td style="border: none; padding: 0 10px;">
       <h3> Technical Artist |  Computer Graphics </h3>
+      <img src='fa-github-square' alt="Placeholder Image">
       linkedin github itch.io youtube
     </td>
   </tr>
