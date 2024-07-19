@@ -13,8 +13,10 @@ layout: home
     </td>
     <td style="border: none; padding: 0 10px;">
       <h3> Technical Artist |  Computer Graphics </h3>
-      <img src='fa-github-square' alt="Placeholder Image">
-      linkedin github itch.io youtube
+      <a href="https://www.linkedin.com/in/grace-miriam-todd/"><img src='/images/icons/linkedin.svg' width=24px alt="LinkedIn"></a>
+      <a href="https://github.com/toddgr"><img src='/images/icons/github.png' width=24px alt="GitHub"></a>
+      <a href="https://igraceykay.itch.io/"><img src='/images/icons/itch.png' width=24px alt="itch.io"></a>
+      <a href="https://www.youtube.com/channel/UClBUZ8AVW85HHcnr4olDssQ"><img src='/images/icons/youtube.png' width=24px alt="YouTube"></a>
     </td>
   </tr>
 </table>

@@ -42,4 +42,6 @@ Developed in GLSL and Blender
 </table>
 
 ## Laundromat
-<img src="https://via.placeholder.com/1920x1080" alt="Placeholder Image">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/R6R2C39307s?si=XMWkeYcTLahYk4O_&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
