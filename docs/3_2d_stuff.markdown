@@ -33,7 +33,41 @@ permalink: /2d-stuff/
   </tr>
 </table>
 
+
+
 ## Animations
+
+---
+
+*AquaQuest*
+
+<!-- Gallery of AquaQuest stuff -->
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px 10px;">
+      <img src="/images/2D_Stuff/Animations/Cloud_walk.gif" alt="Cloud Idle">
+    </td>
+    <td style="border: none; padding: 10px 10px;">
+      <img src="/images/2D_Stuff/Animations/Neptune.gif" alt="Neptune">
+    </td>
+    <td style="border: none; padding: 10px 10px;">
+      <img src="/images/2D_Stuff/Animations/Water.gif" alt="Water Guy Idle">
+    </td>
+  </tr>
+
+<tr style="border: none;">
+    <td style="border: none; padding: 10px 10px;">
+      <img src="/images/2D_Stuff/Animations/cloud_condense.gif" alt="">
+    </td>
+    <td style="border: none; padding: 10px 10px;">
+      <img src="/images/2D_Stuff/Animations/Cloud.gif" alt="">
+    </td>
+    <td style="border: none; padding: 10px 10px;">
+      <img src="/images/2D_Stuff/Animations/water_evapo.gif" alt="">
+    </td>
+  </tr>
+</table>
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/EPocvJX_lIQ?si=OwcQbJJDRitj1LAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
