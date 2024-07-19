@@ -16,7 +16,7 @@ permalink: /projects/
     </td>
     <td style="border: none; padding: 0 10px;">
     <a href="/projects/aquaquest/" style="text-decoration: none; color: inherit;">
-      <h3> AquaQuest </h3>
+      <h2> AquaQuest </h2>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here.
       </a>
     </td>
@@ -33,7 +33,7 @@ permalink: /projects/
     </td>
     <td style="border: none; padding: 0 10px;">
       <a href="/projects/foliager/" style="text-decoration: none; color: inherit;">
-      <h3> Foliager </h3>
+      <h2> Foliager </h2>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here. </a>
     </td>
   </tr>
@@ -46,7 +46,7 @@ permalink: /projects/
       <img src="https://via.placeholder.com/500" alt="Placeholder Image">
     </td>
     <td style="border: none; padding: 0 10px;">
-      <h3> Procedural Foliage Generation </h3>
+      <h2> Procedural Foliage Generation </h2>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here.
     </td>
   </tr>
@@ -59,7 +59,7 @@ permalink: /projects/
       <img src="https://via.placeholder.com/500" alt="Placeholder Image">
     </td>
     <td style="border: none; padding: 0 10px;">
-      <h3> ChatImproVR </h3>
+      <h2> ChatImproVR </h2>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here.
     </td>
   </tr>
@@ -72,7 +72,7 @@ permalink: /projects/
       <img src="https://via.placeholder.com/500" alt="Placeholder Image">
     </td>
     <td style="border: none; padding: 0 10px;">
-      <h3> Painterly Rendering </h3>
+      <h2> Painterly Rendering </h2>
       This is a section of text that will appear to the right of the image. You can write as much text as you need here.
     </td>
   </tr>

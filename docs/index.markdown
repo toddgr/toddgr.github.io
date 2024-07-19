@@ -9,7 +9,7 @@ layout: home
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
-      <img src="https://via.placeholder.com/250" alt="Placeholder Image">
+      <img src="/images/new_profile.png" width=150px alt="Grace Todd">
     </td>
     <td style="border: none; padding: 0 10px;">
       <h3> Technical Artist |  Computer Graphics </h3>
@@ -30,11 +30,12 @@ _Music by Lof Cosmos and Anastasia Kir on [Pixabay](https://pixabay.com/)_
 |----------|----------|----------|
 |   PCG, foliager, link to Projects   |   Shader dev, gummy bears, link to 3D stuff   |   3D modeling, art gallery, link to 2D Stuff   |
 
-<div style="background-color: lightgreen; padding: 10px;">
-  <h1> Publications </h1>
-  <p> [icon] Student Collaboration and Interaction in Virtual Reality | Oregon State University Ecampus Research Fellows, 2023 </p>
-  <p> [icon] Generating and Manipulating Painterly Renderings of Images | Oregon State University Honors College, 2023 </p>
+<div style="background-color: #6e90a3; margin-bottom: 20px; padding: 10px;">
+  <h2> Publications </h2>
+  <p> <span style="font-size: 24px;">👾</span> <b>Student Collaboration and Interaction in Virtual Reality </b> | Oregon State University Ecampus Research Fellows, 2023 </p>
+  <p> <span style="font-size: 24px;"> 🖌️ </span><b>Generating and Manipulating Painterly Renderings of Images </b> | Oregon State University Honors College, 2023 </p>
 </div>
 
-# [Insert Canva Graphic about work experiences and education]
+## Work Experience
+
 <img src="https://via.placeholder.com/1080x1920" alt="Placeholder Image">
