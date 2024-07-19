@@ -11,7 +11,7 @@ permalink: /projects/
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
     <a href="/projects/aquaquest/" style="text-decoration: none; color: inherit;">
-      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+      <img src="/images/Project_Thumbnails/AquaQuest.png" width=500px alt="AquaQuest">
       </a>
     </td>
     <td style="border: none; padding: 0 10px;">
@@ -28,7 +28,7 @@ permalink: /projects/
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
     <a href="/projects/foliager/" style="text-decoration: none; color: inherit;">
-      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+      <img src="/images/Project_Thumbnails/Foliager.png" width=500px alt="Foliager">
       </a>
     </td>
     <td style="border: none; padding: 0 10px;">
@@ -43,7 +43,7 @@ permalink: /projects/
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
-      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+      <img src="/images/Project_Thumbnails/Procedural_Foliage_Generation.png" width=500px alt="Procedural Foliage Generation">
     </td>
     <td style="border: none; padding: 0 10px;">
       <h2> Procedural Foliage Generation </h2>
@@ -56,7 +56,9 @@ permalink: /projects/
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
-      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+      <a href="/projects/chatimprovr/" style="text-decoration: none; color: inherit;">
+      <img src="/images/Project_Thumbnails/ChatImproVR.png" width=500px alt="ChatImproVR">
+      </a>
     </td>
     <td style="border: none; padding: 0 10px;">
       <h2> ChatImproVR </h2>
@@ -69,7 +71,9 @@ permalink: /projects/
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
-      <img src="https://via.placeholder.com/500" alt="Placeholder Image">
+      <a href="/projects/painterly-rendering/" style="text-decoration: none; color: inherit;">
+      <img src="/images/Project_Thumbnails/Painterly_Rendering.png" width=500px alt="Painterly Rendering">
+      </a>
     </td>
     <td style="border: none; padding: 0 10px;">
       <h2> Painterly Rendering </h2>
