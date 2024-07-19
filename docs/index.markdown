@@ -22,15 +22,16 @@ layout: home
 </table>
 
 <!-- Demo Reel -->
-<img src="https://via.placeholder.com/1920x1080" alt="Placeholder Image">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/jTaPWsH2bd4?si=s_9fEsYVhaFy7HCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 _Music by Lof Cosmos and Anastasia Kir on [Pixabay](https://pixabay.com/)_
 
 ---
 
 ## Current Obsessions
 
-
-<!-- Painterly Rendering Thesis -->
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
