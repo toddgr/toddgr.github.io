@@ -39,8 +39,6 @@ permalink: /2d-stuff/
 
 ---
 
-*AquaQuest*
-
 <!-- Gallery of AquaQuest stuff -->
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -79,6 +77,8 @@ permalink: /2d-stuff/
 
 
 ## Sketching
+
+---
 
 <!-- Gallery of portrait stuff -->
 <table style="border-collapse: collapse; border: none;">
