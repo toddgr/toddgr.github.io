@@ -12,7 +12,8 @@ layout: home
       <img src="/images/new_profile.png" width=150px alt="Grace Todd">
     </td>
     <td style="border: none; padding: 0 10px;">
-      <h3> Technical Artist |  Computer Graphics </h3>
+      <h1> Grace Todd </h1>
+      <h2> Technical Artist |  Computer Graphics </h2>
       <a href="https://www.linkedin.com/in/grace-miriam-todd/"><img src='/images/icons/linkedin.svg' width=24px alt="LinkedIn"></a>
       <a href="https://github.com/toddgr"><img src='/images/icons/github.png' width=24px alt="GitHub"></a>
       <a href="https://igraceykay.itch.io/"><img src='/images/icons/itch.png' width=24px alt="itch.io"></a>
