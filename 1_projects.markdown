@@ -10,7 +10,7 @@ permalink: /projects/
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px;">
-    <a href="/projects/aquaquest/" style="text-decoration: none; color: inherit;">
+    <a href="/projects/aquaquest" style="text-decoration: none; color: inherit;">
       <img src="/images/Project_Thumbnails/AquaQuest.png" width=500px alt="AquaQuest">
       </a>
     </td>

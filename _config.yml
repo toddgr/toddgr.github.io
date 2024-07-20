@@ -22,7 +22,7 @@ title: Grace Todd
 email: grace.miriam.todd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Gracey's Portfolio
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/toddgr.github.io" # the subpath of your site, e.g. /blog
 url: "https://toddgr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  toddgr
