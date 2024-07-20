@@ -4,5 +4,4 @@ title:
 permalink: /projects/foliager/
 ---
 
-# Foliager
 
