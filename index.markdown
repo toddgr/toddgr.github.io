@@ -53,7 +53,7 @@ _Music by Lof Cosmos and Anastasia Kir on [Pixabay](https://pixabay.com/)_
   </tr>
 </table>
 
-<div style="background-color: #6e90a3; margin-bottom: 20px; padding: 10px;">
+<div style="background-color: #c3d8c7; margin-bottom: 20px; padding: 10px;">
   <h2> Publications </h2>
   <p> <span style="font-size: 24px;">👾</span> <b>Student Collaboration and Interaction in Virtual Reality </b> | Oregon State University Ecampus Research Fellows, 2023 </p>
   <p> <span style="font-size: 24px;"> 🖌️ </span><b>Generating and Manipulating Painterly Renderings of Images </b> | Oregon State University Honors College, 2023 </p>
@@ -61,4 +61,4 @@ _Music by Lof Cosmos and Anastasia Kir on [Pixabay](https://pixabay.com/)_
 
 ## Work Experience
 
-<img src="https://via.placeholder.com/1080x1920" alt="Placeholder Image">
+<img src="/images/Work_Experience.png" alt="Work experience">
