@@ -23,6 +23,8 @@ As part of my Honors Bachelor's degree, I completed an undergraduate thesis in w
   </tr>
   </table>
 
+The brush strokes, whose length and width is decided by the user, are derived from vector fields that are created from the contours of the input image.
+
   <img src="/images/painterly_rendering/tulips_process.JPG" alt="Painterly Rendering">
 
 I worked on this project over the span of four years, throughout my entire undergraduate career. I learned so much from completing and defending this thesis, from the inner workings of OpenGL and the computer graphics pipeline to long-term project management, all of which I am using to develop my Masters thesis. 
