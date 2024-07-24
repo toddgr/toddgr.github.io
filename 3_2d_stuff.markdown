@@ -80,6 +80,8 @@ permalink: /2d-stuff/
 
 ---
 
+Before I started on my path in computer science, I spent most of my time in drawing and painting classes. I have about 9 years' worth of fine art classes under my belt. If I were to try an analog medium today, though, I would probably need some warming up. These were done between 2019 and 2020, using charcoal and/or pen ink. 
+
 <!-- Gallery of portrait stuff -->
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
