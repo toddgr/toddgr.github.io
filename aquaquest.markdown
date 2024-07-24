@@ -8,7 +8,7 @@ permalink: /projects/aquaquest/
 
 > Oh no, Poseidon's precious pearl has been stolen! The king of Atlantis calls on you, his bravest water spirit, to take on the water cycle and retrieve it for him. Are you up to the task? 
 
-This is a 2D platformer I made with [Andrew Scheafer]() for the Pixel Game Jam 2024. I was a runner-up in the Beginner's Best category. The concept, all of the assets and animations, and everything else was made from scratch in 10 days. You can [download it](https://igraceykay.itch.io/aquaquest) or see the official itch.io page [here](https://igraceykay.itch.io/aquaquest).
+This is a 2D platformer I made with [Andrew Scheafer]() for the Pixel Game Jam 2024. It was a runner-up in the Beginner's Best category. The concept, assets, animations, and everything else was made from scratch in 10 days. You can [download it](https://igraceykay.itch.io/aquaquest) or see the official itch.io page [here](https://igraceykay.itch.io/aquaquest).
 
 <!-- Animation -->
 <table style="border-collapse: collapse; border: none;">
@@ -92,7 +92,7 @@ Animating pixel art is harder than it looks! I like to think I have done my fair
   </tr>
 </table>
 
-In theory, these levels would have explored other 2D gameplay genres, and the platforming level would have been only one piece of the adventure. But all of our big ideas for this project didn't fit the strict timeline we were under (classic game jam predicament), so we had to compromise. We hope to explore this idea further in the future, though.
+In theory, these levels would have explored other 2D gameplay genres, and the platforming level would have been only one piece of the adventure. But all of our big ideas for this project didn't fit the strict timeline we were under (classic game jam dilemma), so we had to compromise. We hope to explore this idea further in the future, though.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-KaP_2T576Y?si=OPWOr_BmNVpZeWIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
