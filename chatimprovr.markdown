@@ -13,15 +13,13 @@ ChatImproVR is a Rust-focused game engine that my team designed with virtual rea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding: 0 10px; width: 250px;">
-      This was my senior Capstone project for my Bachelor's degree. As a part of the ChatImproVR team, I was responsible for developing the graphics system, and I helped to design a few of the mini games that we made to demonstrate our game engine at the Expo. Before this project, I had only ever programmed computer graphics in C++ with OpenGL, so it was interesting to learn how to develop a computer graphics system in a newer language.
+      This was my senior Capstone project for my Bachelor's degree. As a part of the ChatImproVR team, I was responsible for developing the graphics system, and I helped to design a few of the mini games that we made to demonstrate our game engine at the Oregon State University 2023 Engineering Expo. Before this project, I had only ever programmed computer graphics in C++ with OpenGL, so it was interesting to learn how to develop a computer graphics system in a newer language.
     </td>
     <td style="border: none; padding: 0 10px;">
       <img src="/images/fz_shot.jpeg" width=500px alt="FZ screenshot">
     </td>
   </tr>
   </table>
-
-This was my senior Capstone project for my Bachelor's degree. As a part of the ChatImproVR team, I was responsible for developing the graphics system, and I helped to design a few of the mini games that we made to demonstrate our game engine at the Expo. Before this project, I had only ever programmed computer graphics in C++ with OpenGL, so it was interesting to learn how to develop a computer graphics system in a newer language.
 
 >You can view the project website [here](https://chatimprovr.github.io/) or download the engine [here](https://github.com/ChatImproVR/chatimprovr).
 
