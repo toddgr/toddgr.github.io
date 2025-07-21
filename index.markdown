@@ -60,6 +60,6 @@ _Music by Lof Cosmos and Anastasia Kir on [Pixabay](https://pixabay.com/)_
   <p> <span style="font-size: 24px;"> 🖌️ </span> <a href="https://ir.library.oregonstate.edu/concern/honors_college_theses/bn999f86n?locale=en"><b>Generating and Manipulating Painterly Renderings of Images </b></a> | Oregon State University Honors College, 2023 </p>
 </div>
 
-## Work Experience
+## My Experience
 
-<img src="/images/Work_Experience.png" alt="Work experience">
+<img src="/images/Work_Experience_new.png" alt="Work experience">
