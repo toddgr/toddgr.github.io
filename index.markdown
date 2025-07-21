@@ -13,7 +13,7 @@ layout: home
     </td>
     <td style="border: none; padding: 0 10px;">
       <h1> Grace Todd </h1>
-      <h2> Technical Artist |  Animation | Computer Graphics Software Engineer </h2>
+      <h2> Technical Artist | Computer Graphics Software Engineer </h2>
       <a href="https://www.linkedin.com/in/grace-miriam-todd/"><img src='/images/icons/linkedin.svg' width=24px alt="LinkedIn"></a>
       <a href="https://github.com/toddgr"><img src='/images/icons/github.png' width=24px alt="GitHub"></a>
       <a href="https://igraceykay.itch.io/"><img src='/images/icons/itch.png' width=24px alt="itch.io"></a>
@@ -55,6 +55,7 @@ _Music by Lof Cosmos and Anastasia Kir on [Pixabay](https://pixabay.com/)_
 
 <div style="background-color: #c3d8c7; margin-bottom: 20px; padding: 10px;">
   <h2> Publications </h2>
+  <p> <span style="font-size: 24px;">🌲</span> <a href="https://s2025.conference-schedule.org/presentation/?id=pos_283&sess=sess401"><b>Foliager: Procedural Forest Generation From Natural Language Using Scientific Data and AI </b></a> | ACM SIGGRAPH Poster, 2025 | Oregon State University Masters Project, 2024 </p>
   <p> <span style="font-size: 24px;">👾</span> <a href="https://ir.library.oregonstate.edu/concern/defaults/9593v359m"><b>Student Collaboration and Interaction in Virtual Reality </b></a> | Oregon State University Ecampus Research Fellows, 2023 </p>
   <p> <span style="font-size: 24px;"> 🖌️ </span> <a href="https://ir.library.oregonstate.edu/concern/honors_college_theses/bn999f86n?locale=en"><b>Generating and Manipulating Painterly Renderings of Images </b></a> | Oregon State University Honors College, 2023 </p>
 </div>
