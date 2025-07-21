@@ -34,7 +34,7 @@ permalink: /projects/
     <td style="border: none; padding: 0 10px;">
       <a href="/projects/foliager/" style="text-decoration: none; color: inherit;">
       <h2> Foliager </h2>
-      Masters Project aimed at generating realistic foliage for any climate, city, or area using scientific data and artificial intelligence. Anticipated completion December 2024.
+      PRESENTING AT SIGGRAPH 2025! Masters Project aimed at generating realistic foliage for any climate, city, or area using scientific data and artificial intelligence. Completed December 2024.
       </a>
     </td>
   </tr>
